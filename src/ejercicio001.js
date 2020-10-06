@@ -1,0 +1,1 @@
+db.coleccion01.insertOne({x: "Primera Coleccion"})
